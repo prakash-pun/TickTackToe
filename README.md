@@ -1,2 +1,2 @@
-# TickTackToe
-## Developed on Android Studio
+# TickTackToe Game
+## With Java and Android Studio
